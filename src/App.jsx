@@ -1,15 +1,24 @@
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { GridProvider, useGrid, useGridDispatch } from './state/GridContext.jsx';
 import Toolbar from './components/Toolbar.jsx';
 import GridCanvas from './components/GridCanvas.jsx';
 import Timeline from './components/Timeline.jsx';
 import CellPropertiesPanel from './components/CellPropertiesPanel.jsx';
 import PreviewPanel from './components/PreviewPanel.jsx';
+import GalleryPage from './components/GalleryPage.jsx';
 import './App.css';
 
 function AppInner() {
   const { selectedCellIds } = useGrid();
   const dispatch = useGridDispatch();
+  const [view, setView] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    return params.has('icon') ? 'gallery' : 'editor';
+  });
+  const [highlightId] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('icon') || null;
+  });
 
   useEffect(() => {
     function handleKeyDown(e) {
@@ -40,17 +49,21 @@ function AppInner() {
 
   return (
     <div className="app">
-      <Toolbar />
-      <div className="app-body">
-        <div className="app-left">
-          <GridCanvas />
-          <Timeline />
+      <Toolbar setView={setView} />
+      {view === 'editor' ? (
+        <div className="app-body">
+          <div className="app-left">
+            <GridCanvas />
+            <Timeline />
+          </div>
+          <div className="app-right">
+            <CellPropertiesPanel />
+            <PreviewPanel />
+          </div>
         </div>
-        <div className="app-right">
-          <CellPropertiesPanel />
-          <PreviewPanel />
-        </div>
-      </div>
+      ) : (
+        <GalleryPage setView={setView} highlightId={highlightId} />
+      )}
     </div>
   );
 }

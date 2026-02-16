@@ -9,6 +9,7 @@ import { handleExport } from '../src/commands/export.js';
 import { handleDescribe } from '../src/commands/describe.js';
 import { handleValidate } from '../src/commands/validate.js';
 import { handlePalette } from '../src/commands/palette.js';
+import { handleGallery } from '../src/commands/gallery.js';
 import { PixiconError } from '../src/errors.js';
 
 const COMMANDS = {
@@ -20,6 +21,7 @@ const COMMANDS = {
   describe: handleDescribe,
   validate: handleValidate,
   palette: handlePalette,
+  gallery: handleGallery,
   schema: handleDescribe,
 };
 
@@ -46,6 +48,16 @@ function parseArgs(argv) {
   }
 
   return { noun, verb, dataStr, inputFile };
+}
+
+function commandNeedsStdin(noun, verb) {
+  // Commands that always need a document
+  if (noun === 'cells' || noun === 'frame' || noun === 'export') return true;
+  if (noun === 'grid' && verb === 'resize') return true;
+  if (noun === 'anim' && verb === 'stagger') return true;
+  if (noun === 'gallery' && verb === 'save') return true;
+  // grid create, describe, schema, palette, validate, anim preset, gallery list/remove: no stdin
+  return false;
 }
 
 function readStdin() {
@@ -113,7 +125,7 @@ async function main() {
       }) + '\n');
       process.exit(1);
     }
-  } else {
+  } else if (commandNeedsStdin(noun, verb)) {
     rawInput = await readStdin();
   }
 

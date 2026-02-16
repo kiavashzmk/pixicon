@@ -2,12 +2,14 @@ import { useState } from 'react';
 import { useGrid, useGridDispatch } from '../state/GridContext.jsx';
 import { GRID_SIZE_OPTIONS } from '../constants.js';
 import { PRESETS } from '../utils/presets.js';
+import { saveIcon } from '../utils/galleryStorage.js';
 import ExportModal from './ExportModal.jsx';
 import ImportModal from './ImportModal.jsx';
 import './Toolbar.css';
 
-export default function Toolbar() {
-  const { canUndo, canRedo, bgColor, cells } = useGrid();
+export default function Toolbar({ setView }) {
+  const state = useGrid();
+  const { canUndo, canRedo, bgColor, cells } = state;
   const dispatch = useGridDispatch();
   const [showExport, setShowExport] = useState(false);
   const [showImport, setShowImport] = useState(false);
@@ -29,6 +31,12 @@ export default function Toolbar() {
 
   function handleClear() {
     dispatch({ type: 'CLEAR_ALL' });
+  }
+
+  function handleSave() {
+    const name = window.prompt('Icon name:');
+    if (!name) return;
+    saveIcon(name, state);
   }
 
   return (
@@ -89,11 +97,17 @@ export default function Toolbar() {
               onChange={(e) => dispatch({ type: 'SET_BG_COLOR', payload: e.target.value })}
             />
           </label>
+          <button className="toolbar-btn" onClick={() => setView('gallery')}>
+            Gallery
+          </button>
           <button className="toolbar-btn" onClick={() => setShowImport(true)}>
             Import
           </button>
           <button className="toolbar-btn danger" onClick={handleClear}>
             Clear All
+          </button>
+          <button className="toolbar-btn" onClick={handleSave}>
+            Save
           </button>
           <button className="toolbar-btn primary" onClick={() => setShowExport(true)}>
             Export
