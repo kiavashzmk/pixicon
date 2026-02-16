@@ -1,0 +1,144 @@
+.export-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  backdrop-filter: blur(4px);
+}
+
+.export-modal {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  width: 90%;
+  max-width: 600px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.export-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.export-header h3 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.export-close {
+  font-size: 24px;
+  line-height: 1;
+  color: var(--text-muted);
+  padding: 4px 8px;
+}
+
+.export-close:hover {
+  color: var(--text-primary);
+}
+
+.export-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  margin: -4px -24px 0;
+  padding: 0 24px;
+}
+
+.export-tab {
+  padding: 8px 16px;
+  font-size: 13px;
+  color: var(--text-muted);
+  border-bottom: 2px solid transparent;
+  transition: color var(--transition), border-color var(--transition);
+  margin-bottom: -1px;
+}
+
+.export-tab:hover {
+  color: var(--text-primary);
+}
+
+.export-tab.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.export-fps-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.export-fps-label {
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.export-fps-value {
+  font-family: monospace;
+  font-size: 12px;
+  color: var(--text-muted);
+  min-width: 24px;
+  text-align: right;
+}
+
+.export-code {
+  width: 100%;
+  background: var(--bg-primary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px;
+  font-family: 'SF Mono', 'Fira Code', monospace;
+  font-size: 12px;
+  color: var(--text-primary);
+  resize: vertical;
+  outline: none;
+}
+
+.export-code:focus {
+  border-color: var(--border-focus);
+}
+
+.export-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-primary {
+  padding: 8px 16px;
+  background: var(--accent);
+  color: white;
+  border-radius: var(--radius);
+  font-weight: 500;
+  transition: background var(--transition);
+}
+
+.btn-primary:hover {
+  background: var(--accent-hover);
+}
+
+.btn-secondary {
+  padding: 8px 16px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-weight: 500;
+  transition: all var(--transition);
+}
+
+.btn-secondary:hover {
+  background: var(--bg-hover);
+  border-color: var(--text-muted);
+}
+
+.export-empty {
+  color: var(--text-muted);
+  text-align: center;
+  padding: 24px;
+}
