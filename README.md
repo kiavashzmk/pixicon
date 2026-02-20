@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/icon-heart.svg" width="80" alt="Heart" />&nbsp;&nbsp;
+  <img src="assets/icon-circle.svg" width="80" alt="Circle" />&nbsp;&nbsp;
+  <img src="assets/icon-diamond.svg" width="80" alt="Diamond" />&nbsp;&nbsp;
+  <img src="assets/icon-checkerboard.svg" width="80" alt="Checkerboard" />&nbsp;&nbsp;
+  <img src="assets/icon-bars.svg" width="80" alt="Bars" />&nbsp;&nbsp;
+  <img src="assets/icon-cross.svg" width="80" alt="Cross" />&nbsp;&nbsp;
+  <img src="assets/icon-x-mark.svg" width="80" alt="X-mark" />&nbsp;&nbsp;
+  <img src="assets/icon-border-diamond.svg" width="80" alt="Border diamond" />
+</p>
+
 # Pixicon
 
 A pixel grid editor for creating animated SVG icons — in the browser or from the command line.
