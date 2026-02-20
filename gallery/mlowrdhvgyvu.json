@@ -1,0 +1,2751 @@
+{
+  "version": 1,
+  "gridSize": {
+    "rows": 12,
+    "cols": 12
+  },
+  "frames": [
+    {
+      "id": 0,
+      "cells": {
+        "0-0": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "0-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.1991792849089864,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.22698937793938967,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-3": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.26025582640969014,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-4": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.29884295632587554,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-5": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.34157010137212823,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-6": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.38614329954262394,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-7": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.4297465534572783,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-8": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.47000847869370654,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5056234519676398,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5363202005302865,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "0-11": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "1-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.15017690098766254,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.17285314080760017,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.20179285314537698,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-3": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.2382769520929223,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-4": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.2828462636959116,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-5": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.3342082839391983,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-6": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.38861322972805534,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-7": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.44103586292663427,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-8": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.48759341195341765,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5267966566377769,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.558996440350224,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "1-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5853225844516102,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.11948015242501578,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.14065335709515298,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.1693766296780705,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-3": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.20838015119484454,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "2-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "2-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "2-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "2-8": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5133276214320805,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5555199292206944,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5879361526880009,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "2-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.6131326774820137,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "3-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.08386517915108269,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "3-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.10145011241079378,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "3-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.12718432188945653,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "3-3": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "3-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "3-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "3-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "3-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "3-8": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "3-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.5945234507374685,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "3-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.6244202516355462,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "3-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.6463991259523141,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "4-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.04360325391465442,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "4-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.0548925633840104,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "4-2": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-3": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-8": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-9": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "4-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.6689895632385355,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "4-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.6849862558684995,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "5-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "5-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.0024699301854313647,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "5-2": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-3": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-8": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-9": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "5-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.7203515834818224,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "5-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.7277134009147521,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "6-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.5,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "6-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.4926381825670703,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "6-2": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-3": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-8": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-9": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "6-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.7747565292706793,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "6-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.7722865990852479,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "7-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.4572728549537473,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "7-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.4412761623237833,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "7-2": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-3": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-8": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-9": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "7-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.8271791624692583,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "7-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.8158898529999022,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "8-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.418685725037562,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "8-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.396706850720794,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "8-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.3668100498227163,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "8-3": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "8-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "8-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "8-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "8-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "8-8": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "8-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.8994709209747045,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "8-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.8737367114960417,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "8-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.8561517782363305,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.3854192765672613,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.3602227517732486,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.3278065283059421,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-3": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.2856142205173282,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-4": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "9-5": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "9-6": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "9-7": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "9-8": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9806667502800923,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9416632287633183,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9129399561804007,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "9-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.8917667515102636,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-0": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.3576091835368582,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.331283039435472,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.2990832557230247,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-3": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.2598800110386654,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-4": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.2133224620118819,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-5": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.1608998288133032,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-6": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.106494883024446,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-7": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.0551328627811594,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-8": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.01056355117817,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9740794522306249,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9451397398928479,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "10-11": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9224635000729104,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-0": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        },
+        "11-1": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.3086067996155342,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-2": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.2779100510528874,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-3": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.2422950777789545,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-4": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.202033152542526,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-5": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.1584298986278716,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-6": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.1138567004573763,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-7": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.0711295554111233,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-8": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 1.0325424254949378,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-9": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9992759770246376,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-10": {
+          "fill": "#8b5cf6",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0.9714658839942342,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": true
+        },
+        "11-11": {
+          "fill": "#6366f1",
+          "opacity": {
+            "from": 1,
+            "to": 0.2
+          },
+          "scale": {
+            "from": 1,
+            "to": 1
+          },
+          "delay": 0,
+          "duration": 1.8,
+          "easing": "ease-in-out",
+          "animationType": "pulse",
+          "direction": "alternate",
+          "iterationCount": "infinite",
+          "fillMode": "none",
+          "active": false
+        }
+      }
+    }
+  ],
+  "bgColor": "#1a1a24"
+}
