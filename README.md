@@ -15,6 +15,10 @@ A pixel grid editor for creating animated SVG icons — in the browser or from t
 
 Paint cells on a grid, slap animations on them, tweak timing and easing per pixel, and export production-ready SVG, CSS, or React components. It's like a tiny After Effects for pixel art, except it actually finishes rendering.
 
+<p align="center">
+  <img src="assets/demo.gif" width="600" alt="Pixicon demo — cycling through Pulse Grid, Heartbeat, Spinner, and Wave presets" />
+</p>
+
 ## What You Get
 
 - **Pixel grid canvas** — click to paint, drag to fill, pick from 4 color palettes (or go rogue with custom hex)
