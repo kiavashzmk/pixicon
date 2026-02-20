@@ -6,6 +6,7 @@ import Timeline from './components/Timeline.jsx';
 import CellPropertiesPanel from './components/CellPropertiesPanel.jsx';
 import PreviewPanel from './components/PreviewPanel.jsx';
 import GalleryPage from './components/GalleryPage.jsx';
+import LandingPage from './components/LandingPage.jsx';
 import './App.css';
 
 function AppInner() {
@@ -13,7 +14,9 @@ function AppInner() {
   const dispatch = useGridDispatch();
   const [view, setView] = useState(() => {
     const params = new URLSearchParams(window.location.search);
-    return params.has('icon') ? 'gallery' : 'editor';
+    if (params.has('icon')) return 'gallery';
+    if (params.has('editor')) return 'editor';
+    return 'landing';
   });
   const [highlightId] = useState(() => {
     const params = new URLSearchParams(window.location.search);
@@ -46,6 +49,10 @@ function AppInner() {
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [dispatch, selectedCellIds]);
+
+  if (view === 'landing') {
+    return <LandingPage setView={setView} />;
+  }
 
   return (
     <div className="app">

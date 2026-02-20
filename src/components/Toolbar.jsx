@@ -43,6 +43,18 @@ export default function Toolbar({ setView }) {
     <>
       <div className="toolbar">
         <div className="toolbar-left">
+          <button
+            className="toolbar-btn toolbar-home"
+            onClick={() => {
+              window.history.replaceState(null, '', '/');
+              setView('landing');
+            }}
+          >
+            Pixicon
+          </button>
+
+          <div className="toolbar-divider" />
+
           <select
             className="toolbar-select"
             defaultValue={0}

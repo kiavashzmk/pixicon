@@ -63,6 +63,12 @@
   transition: all var(--transition);
 }
 
+.toolbar-home {
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.02em;
+}
+
 .toolbar-btn.primary {
   background: var(--accent);
   color: white;
